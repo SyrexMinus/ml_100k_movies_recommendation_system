@@ -1,2 +1,2 @@
 # ml_100k_movies_recommendation_system
-Graph-based recommendation system for movies in ml-100k dataset. A project for F23 Practical Machine Learning and Deep Learning course in Innopolis University.
+Graph-based recommendation system for movies in MovieLens 100K (ml-100k) dataset. A project for F23 Practical Machine Learning and Deep Learning course in Innopolis University.
